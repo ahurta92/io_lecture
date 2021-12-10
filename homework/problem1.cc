@@ -14,8 +14,6 @@ int main() {
    // create vectors to hold the temps
   vector<int> years;
   vector<double> relativeTemps;
-
-
   int year;
   double temp1;
   double temp2;

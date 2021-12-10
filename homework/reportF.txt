@@ -1,0 +1,4 @@
+The warmest year was 2020 with a temperature of 56.876 F.
+The coldest year was 1909 with a temperature of 54.158 F.
+The average temperature across all years is 55.1268 F.
+The average temperature change across all years is 0.0151714 F.

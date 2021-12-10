@@ -1,0 +1,4 @@
+The warmest year was 2020 with a temperature of 13.82 C.
+The coldest year was 1909 with a temperature of 12.31 C.
+The average temperature across all years is 12.8482 C.
+The average temperature change across all years is 0.00842857 C.
